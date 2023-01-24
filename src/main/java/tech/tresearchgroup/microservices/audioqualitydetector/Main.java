@@ -1,6 +1,6 @@
-package ca.tresearchgroup.skeleton;
+package tech.tresearchgroup.microservices.audioqualitydetector;
 
-import ca.tresearchgroup.skeleton.view.Endpoint;
+import tech.tresearchgroup.microservices.audioqualitydetector.view.Endpoint;
 import io.activej.http.AsyncServlet;
 import io.activej.http.RoutingServlet;
 import io.activej.inject.Injector;
